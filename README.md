@@ -15,8 +15,4 @@ classifiers = [
     BaggingClassifier(),
     AdaBoostClassifier(),
     XGBClassifier(),
-
-    # Not used in this exercize
-    # GaussianProcessClassifier(1.0 * RBF(1.0)),
-    # QuadraticDiscriminantAnalysis()
 ]
